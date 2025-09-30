@@ -2,7 +2,7 @@ GrowCarrot 🌱🥕
 
 A Flutter mobile application designed to help farmers grow, manage, and market carrots effectively with modern digital support.
 
-![screenshot](https://github.com/fahmida027/Flutter-growCarrot/blob/main/assets/images/carrot-logo-png.png)
+![screenshot](https://github.com/fahmida027/Flutter-growCarrot/blob/main/assets/images/sp.png)
 ![screenshot](https://github.com/fahmida027/Flutter-growCarrot/blob/main/assets/images/hm.png)
 
 🚀 Project Overview
