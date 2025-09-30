@@ -1,0 +1,65 @@
+{
+  "appTitle": "GrowCarrot",
+  "appSubtitle": "Your Complete Carrot Farming Guide",
+  "splashText": "From Soil to Harvest...",
+  "splashWelcome": "Complete guide to carrot farming - from soil preparation to marketing",
+  
+  "farmingStages": "Carrot Farming Stages",
+  "followSteps": "Follow these steps for successful carrot cultivation",
+  "stageInfo": "Stage Information",
+  "quickTip": "Quick Tip",
+  "listen": "Listen",
+  "previous": "Previous",
+  "backToStages": "Back to Stages",
+  "aboutApp": "About GrowCarrot",
+  "aboutDescription": "Your complete guide to successful carrot farming from soil preparation to harvest.",
+  "ok": "OK",
+  "step": "Step",
+  "ofSteps": "of 11",
+  
+  "stage1Name": "Soil Preparation",
+  "stage2Name": "Seed Selection",
+  "stage3Name": "Growing Conditions",
+  "stage4Name": "Irrigation System",
+  "stage5Name": "Pest Control",
+  "stage6Name": "Plant Care",
+  "stage7Name": "Growth Stage",
+  "stage8Name": "Flowering",
+  "stage9Name": "Ripening Time",
+  "stage10Name": "Harvesting",
+  "stage11Name": "Marketing",
+  
+  "description1": "Soil preparation is extremely important for carrot cultivation. First, the land must be well plowed. The soil should be loamy or sandy loam with good drainage. Soil pH should be maintained between 6.0-7.0. Apply 8-10 tons of decomposed cow dung or compost per acre as organic fertilizer. The soil should be cultivated to a depth of 18-20 inches so that carrot roots can easily penetrate deep into the soil.",
+  
+  "description2": "Selecting good quality seeds is the key to successful carrot cultivation. Both local and foreign varieties of carrot seeds are available. Local varieties include Local Red, while foreign varieties include Kuroda, Nantes. When buying seeds, make sure they are fresh and have a germination capacity of more than 85%. 400-500 grams of seeds are required per acre. Soaking seeds in water for 12 hours before sowing improves germination.",
+  
+  "description3": "Winter is the most suitable time for carrot cultivation. Kartik-Agrahayan months (October-November) are the ideal time for carrot sowing. Temperature should be 15-20 degrees Celsius. Excessive heat or cold hampers carrot growth. Humidity should be maintained at 65-75%. Adequate sunlight is needed so cultivation in shaded areas is not recommended. Care should be taken that rainwater does not accumulate.",
+  
+  "description4": "Regular irrigation is very important in carrot cultivation. Light irrigation should be given after seed sowing so that the soil remains slightly moist at all times. During germination, if the soil dries out, the seeds will not germinate. Irrigation should be given 2-3 times a week. However, excessive water should not be given as it may cause carrot rot. Irrigation should be stopped 10-15 days before harvest to increase sweetness in carrots.",
+  
+  "description5": "Various pests and diseases can attack carrot cultivation. Major pests include aphids, cutworms and green leafhoppers. Diseases include leaf blight, root rot. Neem oil or soap water spray can be used to control pests. Tricho cards or pheromone traps can be used in biological methods. If necessary, approved pesticides should be used but all types of spraying should be stopped at least 15 days before harvest.",
+  
+  "description6": "For proper carrot care, weeds should be cleaned regularly. First weeding and hoeing should be done 20-25 days after seedling emergence. After that, weeds should be cleaned every 15 days. If the seedlings are too dense, they should be thinned so that there is a distance of 3-4 inches between plants. If the soil becomes hard, it should be loosened with a hoe. Soil should be heaped around the base of carrots to prevent the upper part of carrots from turning green.",
+  
+  "description7": "30-40 days after seed sowing, carrot growth begins rapidly. At this time, the leaves of the plant begin to grow and the roots begin to thicken. Balanced fertilizer should be applied at this stage. 1 kg urea, 2 kg TSP and 1 kg MOP should be applied per acre. Regular irrigation and weed control are extremely important during this growth period. If the leaves of the plant turn yellow, it may be a sign of disease, so be careful.",
+  
+  "description8": "Carrots are usually grown for roots, so flowering is undesirable. If for some reason carrot plants flower, it should be cut off. When flowering occurs, carrot roots become hard and bitter and become inedible. Generally, carrots flower when it is too hot or the day length increases. Therefore, sowing seeds at the right time is very important. If cultivated for seed production, flowers should be kept, otherwise all flowers should be cut off.",
+  
+  "description9": "Carrots begin to ripen within 85-100 days of seed sowing. The way to recognize ripe carrots is that the upper part of the carrot will be visible above the soil and will turn orange. Ripe carrots will feel firm when pressed by hand. The color of the leaves will become light yellowish. At this time, irrigation should be reduced so that the sweetness of carrots increases. Crops should be harvested at the right time because over-ripening can cause carrots to crack and spoil the taste.",
+  
+  "description10": "The right time to harvest carrots is in the morning or evening when there is less sun. Before harvesting carrots, the soil should be slightly moistened for easy harvesting. Care should be taken not to break the carrots while harvesting. After harvesting, the leaves should be cut immediately and cleaned with clean water to remove soil. Cut or insect-eaten carrots should be separated. Good carrots should be dried in the shade and prepared for storage. 40-50 tons of carrots can be obtained per acre.",
+  
+  "description11": "For carrot marketing, grading should be done first. Large, medium and small carrots should be separated. Good quality carrots should be packed in plastic baskets or cartons. It can be sold in local markets, city markets and wholesale markets. Carrot prices are usually lower in winter and higher in summer. Therefore, storing and selling later results in more profit. Also, carrots can be processed and sold as carrot halwa, pickles, juice etc.",
+  
+  "tip1": "Test soil pH using a simple soil testing kit available at farm supply stores.",
+  "tip2": "Always buy seeds from certified dealers to ensure good germination rates.",
+  "tip3": "Carrot seeds are tiny - mix them with sand for easier, more even sowing.",
+  "tip4": "Morning watering is best - it gives plants time to dry before evening.",
+  "tip5": "Companion planting with onions or garlic helps naturally repel carrot pests.",
+  "tip6": "Thin carrots when young - overcrowded carrots will be small and malformed.",
+  "tip7": "Green shoulders appearing above soil means your carrots are growing well.",
+  "tip8": "Most carrots are harvested for roots, not flowers - flowering reduces root quality.",
+  "tip9": "Gently test carrot size by feeling around the crown without pulling the plant.",
+  "tip10": "Harvest on dry days for better storage quality and easier handling.",
+  "tip11": "Clean carrots sell for better prices - invest time in proper post-harvest care."
+}
